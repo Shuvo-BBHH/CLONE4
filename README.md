@@ -19,7 +19,7 @@
 # MAIN CAMMANDS
 
 - `pip install rich`
-- - `pip install mahdix`
+-`pip install mahdix`
 - `rm -rf CLONE4`
 - `git clone https://github.com/Shuvo-BBHH/CLONE4`
 - `cd CLONE4`
