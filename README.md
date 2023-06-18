@@ -1,8 +1,8 @@
-# cloneBD
+# CLONE4
 
 # PROGRAMMED BY MAHDI
 
- # version 0.3
+ # version 0.1
 
 # INSTALLATIONS
 
@@ -19,9 +19,9 @@
 # MAIN CAMMANDS
 
 - `pip install rich`
-- `rm -rf cloneBD`
-- `git clone https://github.com/Shuvo-BBHH/cloneBD`
-- `cd cloneBD`
+- `rm -rf CLONE4`
+- `git clone https://github.com/Shuvo-BBHH/CLONE4`
+- `cd CLONE4`
 - `python mahdi.py`
 
 
